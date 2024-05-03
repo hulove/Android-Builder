@@ -2,8 +2,8 @@
     {
       "kernelSource": {
         "name": "InfiniR",
-        "repo": "https://github.com/toraidl/InfiniR_kernel_umi.git",
-        "branch": "14.0-umi",
+        "repo": "https://github.com/hulove/InfiniR_kernel_ucmi.git",
+        "branch": "pipa-t-oss",
         "device": "umi",
         "defconfig": "umi_defconfig"
       },
@@ -34,7 +34,7 @@
           "branch": "kona"
         }
       },
-      "enableKernelSU": true,
+      "enableKernelSU": false,
       "enableLXC": false
     }
 ]
