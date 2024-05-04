@@ -4,8 +4,8 @@
         "name": "android_kernel_xiaomi_ucmi",
         "repo": "https://github.com/toraidl/android_kernel_xiaomi_ucmi.git",
         "branch": "linux-4.19.y",
-        "device": "umi",
-        "defconfig": "umi_defconfig"
+        "device": "ucmi",
+        "defconfig": "vendor/ucmi_defconfig"
       },
       "toolchains": [
    {
