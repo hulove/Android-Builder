@@ -1,11 +1,11 @@
   [
     {
       "kernelSource": {
-        "name": "android_kernel_xiaomi_ucmi",
+        "name": "Bt",
         "repo": "https://github.com/hulove/android_kernel_xiaomi_ucmi.git",
         "branch": "linux-4.19.y",
         "device": "umi",
-        "defconfig": "umi_defconfig"
+        "defconfig": "ucmi_defconfig"
       },
       "toolchains": [
    {
@@ -34,7 +34,7 @@
           "branch": "kona"
         }
       },
-      "enableKernelSU": false,
+      "enableKernelSU": true,
       "enableLXC": false
     }
 ]
