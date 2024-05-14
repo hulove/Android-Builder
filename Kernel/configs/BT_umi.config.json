@@ -5,7 +5,7 @@
         "repo": "https://github.com/hulove/android_kernel_xiaomi_ucmi.git",
         "branch": "pipa",
         "device": "umi",
-        "defconfig": "ucmi_defconfig"
+        "defconfig": "umi_user_defconfig"
       },
       "toolchains": [
    {
