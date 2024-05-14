@@ -3,7 +3,7 @@
       "kernelSource": {
         "name": "Bt",
         "repo": "https://github.com/hulove/android_kernel_xiaomi_ucmi.git",
-        "branch": "linux-4.19.y",
+        "branch": "pipa",
         "device": "umi",
         "defconfig": "ucmi_defconfig"
       },
