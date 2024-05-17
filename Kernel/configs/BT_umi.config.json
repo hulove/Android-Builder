@@ -2,15 +2,15 @@
     {
       "kernelSource": {
         "name": "Bt",
-        "repo": "https://github.com/hulove/android_kernel_xiaomi_ucmi.git",
-        "branch": "pipa",
+        "repo": "https://github.com/toraidl/android_kernel_xiaomi_ucmi.git",
+        "branch": "pipa-t-oss",
         "device": "umi",
         "defconfig": "umi_user_defconfig"
       },
       "toolchains": [
    {
      "name": "clang",
-     "url": "https://github.com/ZyCromerZ/Clang/releases/download/16.0.6-20240430-release/Clang-16.0.6-20240430.tar.gz" ,
+     "url": "https://github.com/ZyCromerZ/Clang/releases/download/10.0.1-20220724-release/Clang-10.0.1-20220724.tar.gz" ,
      "binaryEnv": ["./bin"]
    }
    ],
