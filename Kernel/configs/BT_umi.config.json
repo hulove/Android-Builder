@@ -2,15 +2,15 @@
     {
       "kernelSource": {
         "name": "Bt",
-        "repo": "https://github.com/toraidl/InfiniR_kernel_umi.git",
-        "branch": "14.0-umi",
+        "repo": "https://github.com/hulove/android_kernel_xiaomi_ucmi.git",
+        "branch": "linux-4.19.y",
         "device": "umi",
         "defconfig": "umi_defconfig"
       },
       "toolchains": [
    {
      "name": "clang",
-     "url": "https://github.com/ZyCromerZ/Clang/releases/download/16.0.6-20231003-release/Clang-16.0.6-20231003.tar.gz" ,
+     "url": "https://github.com/ZyCromerZ/Clang/releases/download/16.0.6-20240430-release/Clang-16.0.6-20240430.tar.gz" ,
      "binaryEnv": ["./bin"]
    }
    ],
