@@ -2,10 +2,10 @@
     {
       "kernelSource": {
         "name": "Bt",
-        "repo": "https://github.com/toraidl/android_kernel_xiaomi_ucmi.git",
-        "branch": "pipa-t-oss",
+        "repo": "https://github.com/toraidl/InfiniR_kernel_umi.git",
+        "branch": "14.0-umi",
         "device": "umi",
-        "defconfig": "umi_user_defconfig"
+        "defconfig": "umi_defconfig"
       },
       "toolchains": [
    {
