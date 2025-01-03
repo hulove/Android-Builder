@@ -5,7 +5,7 @@
         "repo": "https://github.com/hulove/kernel_xiaomi_sm8250",
         "branch": "staging",
         "device": "umi",
-        "defconfig": "umi_defconfig"
+        "defconfig": "vendor/umi_defconfig"
       },
       "toolchains": [
    {
