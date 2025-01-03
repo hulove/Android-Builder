@@ -2,8 +2,8 @@
     {
       "kernelSource": {
         "name": "InfiniR",
-        "repo": "https://github.com/toraidl/InfiniR_kernel_umi.git",
-        "branch": "14.0-umi",
+        "repo": "https://github.com/hulove/kernel_xiaomi_sm8250",
+        "branch": "staging",
         "device": "umi",
         "defconfig": "umi_defconfig"
       },
