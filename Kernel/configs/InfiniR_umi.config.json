@@ -2,8 +2,8 @@
     {
       "kernelSource": {
         "name": "InfiniR",
-        "repo": "https://github.com/toraidl/InfiniR_kernel_umi.git",
-        "branch": "14.0-umi",
+        "repo": "https://github.com/toraidl/android_kernel_xiaomi_ucmi",
+        "branch": "stable",
         "device": "umi",
         "defconfig": "umi_defconfig"
       },
